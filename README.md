@@ -1,4 +1,4 @@
-# google-Sheets-Status-Organiser
+# Google Sheets Status Organiser
 This projects consists of using a Javascript for Google Sheets to organise the main sheet into the respective sheets dependent on their STATUS
 ## The Problem
 Cold calling can be tough, specially when you don't have a proper system or organisation tool to make your life easier when you're keeping record of hundreds of companies information.
